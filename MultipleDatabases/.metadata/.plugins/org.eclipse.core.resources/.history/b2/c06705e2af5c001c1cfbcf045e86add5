@@ -1,0 +1,5 @@
+package com.khagesh.multipledatabases.documents;
+
+public class EmployeeDocument {
+
+}

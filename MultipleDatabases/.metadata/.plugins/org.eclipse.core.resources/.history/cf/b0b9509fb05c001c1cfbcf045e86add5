@@ -1,0 +1,5 @@
+package com.khagesh.multipledatabases.repositories;
+
+public interface EmployeeRepo {
+
+}
